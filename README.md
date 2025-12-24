@@ -21,7 +21,7 @@
 
 ## Live Demo
 
-Try the game online here: [pig game]()
+Try the game online here: [pig game](https://cynhlfn.github.io/Pig_game_js/)
 
 ## Installation
 
